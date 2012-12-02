@@ -1,4 +1,4 @@
-amawal
+amawal - ⴰⵎⴰⵡⴰⵍ 
 ======
 
-ⴰⵎⴰⵡⴰⵍ - Tamaziɣt language dictionary in json format
+Tamaziɣt language dictionary in json format
